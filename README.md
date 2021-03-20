@@ -1,3 +1,5 @@
+Credit goes to the creator of the project Javascript Mastery - https://www.youtube.com/channel/UCmXmlB4-HJytD7wek0Uo97A
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
